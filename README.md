@@ -1,7 +1,7 @@
 # zabbix-proxy
 
 ====安裝zabbix release 及zabbix-proxy zabbix-agent==========================
-  3.4 Centos6
+  3.4 Centos6  
   http://repo.zabbix.com/zabbix/3.4/rhel/6/x86_64/zabbix-release-3.4-1.el6.noarch.rpm  
   
   3.4 centos 7  
