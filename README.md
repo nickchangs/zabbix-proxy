@@ -12,7 +12,7 @@
 
 ====安裝zabbix release 及zabbix-proxy  zabbix-agent==========================  
 
-  yum install mariadb ## for centos 7  
+  yum install mariadb-server ## for centos 7  
   yum install mysql-server  ## for centos 6  
   mysql -u root -p  
   drop database zabbix_proxy;  
