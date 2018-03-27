@@ -25,3 +25,5 @@ vi /etc/selinux/config
 
 systemctl enable zabbix-proxy
 systemctl enable zabbix-agent
+yum install iptables-services
+systemctl enable iptables
