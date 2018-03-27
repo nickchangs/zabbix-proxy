@@ -22,3 +22,6 @@ vi /etc/zabbix/zabbix_agentd.conf
 setenforce 0
 
 vi /etc/selinux/config
+
+systemctl enable zabbix-proxy
+systemctl enable zabbix-agent
